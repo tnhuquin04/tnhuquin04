@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Nhu Quynh, looking for an opporturnity in Data intern position.
+## About me in 30Secs  ✨
+- Student at University of Economics and Law with major Economical Mathematics
+- With the willing to learn spirit and high responsibility
+- Have basic knowledge about SQL, Python, Stata..
+- Some skills such as: Data cleaning, Data visualization and Teamwork.
+
+
+
+
 
 <!--
 **tnhuquin04/tnhuquin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
