@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nhu Quynh, looking for an opporturnity in Data intern position.
+I'm Nhu Quynh, looking for an opporturnity in Research Analysis, working with data
 ## About me in 30Secs  ✨
 - Graduate from University of Economics and Law (Major: Mathematical Economics)
 - Strong interest in research analysis, macroeconomic trends
