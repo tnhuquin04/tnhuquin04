@@ -1,10 +1,11 @@
 ## Hi there 👋
 I'm Nhu Quynh, looking for an opporturnity in Data intern position.
 ## About me in 30Secs  ✨
-- Student at University of Economics and Law with major Economical Mathematics
-- With the willing to learn spirit and high responsibility
-- Have basic knowledge about SQL, Python, Stata..
-- Some skills such as: Data cleaning, Data visualization and Teamwork.
+- Graduate from University of Economics and Law (Major: Mathematical Economics)
+- Strong interest in research analysis, macroeconomic trends
+- Experienced in working with real-world datasets and market research projects
+- Able to transform data into actionable insights for decision-making
+- Proactive learner with high responsibility and strong teamwork mindset
 
 
 
